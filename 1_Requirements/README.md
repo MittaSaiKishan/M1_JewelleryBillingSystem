@@ -79,7 +79,7 @@ The Jewellery Billing system is nowadays essential for shops.They can use this s
 
 ### How:
 
-System design is a solution for how to approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. Here UML diagrams are used to supplement the working of the new system. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
+System design is a solution for how to approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
 
 ## Detail Requirements
 
