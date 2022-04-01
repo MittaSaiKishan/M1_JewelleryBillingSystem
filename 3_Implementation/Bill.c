@@ -95,7 +95,7 @@ int main()
             fgets(name, 50, stdin);
             name[strlen(name) - 1] = 0;
             system("clear");
-            fp = fopen("RestaurantBIll.dat", "r");
+            fp = fopen("JewelleryBill.dat", "r");
             printf("\t *****Invoice of %s*****\n", name);
             while (fread(&orders, sizeof(struct order), 1, fp))
             {
