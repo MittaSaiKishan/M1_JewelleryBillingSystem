@@ -32,7 +32,7 @@ int main()
         case 1:
             system("clear");
             printf("\n\nCustomer Name:\t");
-            fgets(ord.customername, 50, stdin);
+            fgets(ord.customername, 40, stdin);
             ord.customername[strlen(ord.customername) - 1] = 0;
             strcpy(ord.date, __DATE__);
             printf("\nPlease Enter the Number of Items:\t");
@@ -92,7 +92,7 @@ int main()
         case 3:
             printf("\nEnter the name of the customer:\t");
             // fgetc(stdin);
-            fgets(name, 50, stdin);
+            fgets(name, 40, stdin);
             name[strlen(name) - 1] = 0;
             system("clear");
             fp = fopen("JewelleryBill.dat", "r");
